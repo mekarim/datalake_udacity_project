@@ -1,0 +1,4 @@
+# Ignore changes to the following files and/or folders
+dl.cfg
+.ipynb_checkpoints/
+.aws/
